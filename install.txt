@@ -1,0 +1,5 @@
+Charset,UTF-8
+//menu表示名
+name,Alpha-Green
+type,balloon
+directory,Alpha-Green
