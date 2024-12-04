@@ -6,7 +6,7 @@ directory,Alpha-Green
 
 craftman,ambergon
 craftmanurl,https://ambergonslibrary.com/ukagaka/
-//homeurl,https://raw.githubusercontent.com/ambergon/ukagakaBalloon_kohakuTarminal/release/
+homeurl,https://raw.githubusercontent.com/ambergon/ukagakaBalloon_AlphaGreen/master/
 
 readme,ReadMe.md
 readme.charset,UTF-8

@@ -1,0 +1,25 @@
+charset,Shift_JIS
+file,ReadMe.mdc476032ea08fefe6409c2fdd77712b2esize=461date=2024-12-04T10:29:47
+file,arrow0.png6944763862a196af0ed73247fc28c003size=116date=2024-12-04T07:38:49
+file,arrow1.png5208b4133bcd65f75ed1e132ad0e298esize=112date=2024-12-04T07:38:28
+file,balloonc0.png4504ca3987298bfdf91cb7127efecaeesize=802date=2024-12-04T09:41:20
+file,balloonk0.png4493d2ac2f2d5ac297bd5a6bfb29e34dsize=1460date=2024-12-04T09:28:47
+file,balloonk1.png14bb0bc3e7539f67390ab8d4be9258a5size=1819date=2024-12-04T09:25:24
+file,balloonk3.png00d6c116edc8165be5c6b842c0548467size=3773date=2024-12-04T09:27:53
+file,balloons0.png9c5d24c4c63d5afb14aa15535150b663size=1458date=2024-12-04T01:07:44
+file,balloons1.png79e091bb388940628f1cd14bf21c4516size=1811date=2024-12-04T08:57:01
+file,balloons2.png733e21bdd25277bf036204dbd8049fe3size=2392date=2024-12-04T09:04:49
+file,balloons3.png9e21792b0bb89717be5fe094434b2095size=3792date=2024-12-04T09:09:52
+file,balloonsk2.pnga6e5cb7425b075f0c5acbada808a56c2size=2373date=2024-12-04T09:27:13
+file,clickwait.png872c30dec2f53b3025574281132aed21size=434date=2024-12-04T07:52:48
+file,descript.txta38164bde356b8a2d81115205cbb55b8size=2306date=2024-12-04T10:32:50
+file,font/HackGen/source/Hack Regular Nerd Font Complete.ttfa8357fa4d225bc54fbf19d66edce33afsize=1741792date=2022-07-13T00:55:46
+file,font/HackGen/source/Hack Regular Nerd Font Complete_LICENSE.txtc11216d3b4777501808a06658de22bcdsize=5826date=2022-07-13T00:55:46
+file,font/HackGen/source/Hack Regular Nerd Font Complete_README.md72ee65841c2ca58f61d615fcd291792esize=6564date=2022-07-13T00:55:46
+file,install.txt7d168c77736baa81428d251549184cc8size=82date=2024-12-04T09:12:01
+file,marker.png8b081085bda9bba25521c5de22f721a9size=144date=2024-12-04T08:05:55
+file,onlineIcon0.pnged1c117c99f31c22124594f3bfbbdee9size=150date=2024-12-04T08:39:29
+file,onlineIcon1.pnga17ccf7f42d05fa198e51333656b7677size=210date=2024-12-04T08:39:18
+file,onlineIcon2.png0deec2d6833772b1121bd71a44c8b2fcsize=215date=2024-12-04T08:39:05
+file,onlineIcon3.png220da102893de6b7b2fe14a2bbb67429size=232date=2024-12-04T08:39:36
+file,sstp.pngd0268d4c87d4d1c29da2d3bc6dfb618asize=321date=2024-12-04T08:11:13
