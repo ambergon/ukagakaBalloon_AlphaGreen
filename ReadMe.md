@@ -1,8 +1,8 @@
 # Alpha-Green
-伺かで使えるバルーンです。
-![./balloons0.png]<br> 
-![./balloonk0.png]<br> 
-![./balloonc0.png]<br> 
+伺かで使えるバルーンです。<br>
+![メインバルーン](./balloons0.png)<br> 
+![サブバルーン](./balloonk0.png)<br> 
+![コミュニケートボックス](./balloonc0.png)<br> 
 
 
 ## Font
