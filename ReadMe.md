@@ -18,5 +18,10 @@ yuru7様のHack Requirements Nerd Font Complete.tty をお借りしています�
 適当なゴーストにD&Dすることでインストールされます。<br> 
 
 
+## 更新履歴
+2025-04-22
+選択済みのリンクのカラーを黒から薄い黄色に変更
+
+
 ## Author
 ambergon

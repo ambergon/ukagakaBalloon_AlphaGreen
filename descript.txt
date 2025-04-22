@@ -65,11 +65,9 @@ anchor.font.color.g,0
 anchor.font.color.b,200
 
 //\_aタグ・既読
-anchor.visited.font.color.r,0 
-anchor.visited.font.color.g,0
-anchor.visited.font.color.b,0
-
-
+anchor.visited.font.color.r,210 
+anchor.visited.font.color.g,210
+anchor.visited.font.color.b,80
 
 
 
