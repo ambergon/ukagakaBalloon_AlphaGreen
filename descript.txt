@@ -101,9 +101,9 @@ sstpmarker.y,3
 // SSTP 送信者名
 sstpmessage.x,20
 sstpmessage.y,4
-sstpmessage.font.color.r,30
+sstpmessage.font.color.r,230
 sstpmessage.font.color.g,235
-sstpmessage.font.color.b,235
+sstpmessage.font.color.b,105
 
 }}}
 {{{
