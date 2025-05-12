@@ -17,7 +17,8 @@ use_self_alpha,1
 
 //テキスト開始座標
 origin.x,12
-origin.y,22
+origin.y,30
+// origin.y,22
 
 // テキスト上限位置の修正
 validrect.top,22
